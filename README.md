@@ -1,0 +1,7 @@
+## Minimarket
+
+MiniMarket
+
+#### License
+
+MIT

@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include minimarket *.css
+recursive-include minimarket *.csv
+recursive-include minimarket *.html
+recursive-include minimarket *.ico
+recursive-include minimarket *.js
+recursive-include minimarket *.json
+recursive-include minimarket *.md
+recursive-include minimarket *.png
+recursive-include minimarket *.py
+recursive-include minimarket *.svg
+recursive-include minimarket *.txt
+recursive-exclude minimarket *.pyc
